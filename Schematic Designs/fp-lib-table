@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Libraries)(type KiCad)(uri D:/THESIS/IOT-DAQ/Libraries)(options "")(descr ""))
+  (lib (name Libraries1)(type KiCad)(uri D:/THESIS/IOT-DAQ/Libraries)(options "")(descr "")(disabled))
+)
